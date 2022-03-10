@@ -6,9 +6,17 @@
 ### Branches as a core concept in Git
 ### Core concepts: the HEAD branch
 ### Core concepts: local vs. remote branches
+
 ### Creating new branches
+### $ git branch new-branch
+
 ### Switching branches
+#### $ git checkout master
+#### $ git switch master
+
 ### Renaming branches
+#### $ git branch -m better-branch
+
 ### Publishing branches
 ### Tracking branches
 ### Pulling + pushing branches
