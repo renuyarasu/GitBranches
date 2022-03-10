@@ -5,38 +5,38 @@
 ### Hosted by Tower
 ### Branches as a core concept in Git
 ### Core concepts: the HEAD branch
-### Core concepts: local vs. remote branches
+### Core concepts: local vs. remote Branches
 
-### Creating new branches
+### Creating new Branches
 ### $ git branch new-branch
 
-### Switching branches
+### Switching Branches
 #### $ git checkout master
 #### $ git switch master
 
-### Renaming branches
+### Renaming Branches
 #### $ git branch -m better-branch
 
-### Publishing branches
+### Publishing Branches
 
 
-### Tracking branches
+### Tracking Branches
 
 
-### Pulling + pushing branches
+### Pulling + pushing Branches
 
 
-### Deleting branches
+### Deleting Branches
 
 
-### Merging branches
+### Merging Branches
 
 
-### Rebasing branches
+### Rebasing Branches
 
 
-### Comparing branches
+### Comparing Branches
 
 
-### Working with Branches Cheat Sheet: a handy resource for your daily work, free to download (www.bit.ly/git-branches-cheatsheet)
+### Working with Branches Cheat Sheet: a handy resource for your daily work, free to download (www.bit.ly/git-Branches-cheatsheet)
 
