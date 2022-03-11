@@ -31,6 +31,8 @@
    #### $ git push origin --delete branch-name (remote)
 
 ### Merging Branches
+   #### $ git switch main
+   #### $ git merge branch-name
 
 
 ### Rebasing Branches
