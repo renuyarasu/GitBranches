@@ -27,7 +27,8 @@
 
 
 ### Deleting Branches
-   #### $ git branch -d branch-name
+   #### $ git branch -d branch-name (local)
+   #### $ git push origin --delete branch-name (remote)
 
 ### Merging Branches
 
