@@ -21,10 +21,13 @@
    #### $ git push -u origin better-branch
 
 ### Pulling + pushing Branches
+   #### $ pull
+   #### $ push
+   #### $ branch -v
 
 
 ### Deleting Branches
-
+   #### $ git branch -d branch-name
 
 ### Merging Branches
 
