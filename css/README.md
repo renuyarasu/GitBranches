@@ -11,17 +11,14 @@
 ### $ git branch new-branch
 
 ### Switching Branches
-#### $ git checkout master
-#### $ git switch master
+   #### $ git checkout master
+   #### $ git switch master
 
 ### Renaming Branches
-#### $ git branch -m better-branch
+   #### $ git branch -m better-branch
 
 ### Publishing Branches
-
-
-### Tracking Branches
-
+   #### $ git push -u origin better-branch
 
 ### Pulling + pushing Branches
 
